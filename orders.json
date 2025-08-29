@@ -1,0 +1,47 @@
+{
+  "S93162": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Daniel Schuller, 79576 Weil am Rhein, Bleichestraße 9, Deutschland",
+    "receiver": "Jan Goller, Oberdorfstrasse 40, 78224 Singen, Deutschland",
+    "price": "8.300 €",
+    "description": "Hersteller: Ducati<br>Typ: 1098 R<br>Fahrgestelnummer: ZDMH702AB8B016014<br>Erstzulassung: 05/2008<br>KM laut Vorbesitzer: 19.100 km<br>Leistung: 135 kW (184 PS)<br>Hubraum: 1.198 cm³<br>Farbe: Rot<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Jan Goller<br>Quellenstrasse<br>8212 Neuhausen am Rheinfall<br>Schweiz<br>Telefon: -",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "29-08-2025",
+    "deliveryDate": "03-09-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "Quellenstrasse",
+      "postal_code": "8212",
+      "city": "Neuhausen am Rheinfall",
+      "country": "Schweiz",
+      "lat": "47.68844383389252",
+      "lng": "8.616947999999999"
+    }
+  }
+}
