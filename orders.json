@@ -1,6 +1,6 @@
 {
   "S93162": {
-    "status": "Warten auf Zahlung",
+    "status": "Versandvorbereitung",
     "statusClass": "pending",
     "sender": "Daniel Schuller, 79576 Weil am Rhein, Bleichestraße 9, Deutschland",
     "receiver": "Jan Goller, Oberdorfstrasse 40, 78224 Singen, Deutschland",
@@ -26,7 +26,7 @@
       }
     ],
     "orderDate": "29-08-2025",
-    "deliveryDate": "03-09-2025",
+    "deliveryDate": "04-09-2025, 15:30 Uhr",
     "pickup": {
       "street": "",
       "postal_code": "",
