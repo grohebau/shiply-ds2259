@@ -36,12 +36,12 @@
       "lng": ""
     },
     "delivery": {
-      "street": "Quellenstrasse",
-      "postal_code": "8212",
-      "city": "Neuhausen am Rheinfall",
-      "country": "Schweiz",
-      "lat": "47.68844383389252",
-      "lng": "8.616947999999999"
+      "street": "Friedinger Straße 7a",
+      "postal_code": "78224",
+      "city": "Singen",
+      "country": "Deutschland",
+      "lat": "47.7649159852501",
+      "lng": "8.845512912137597"
     }
   }
 }
